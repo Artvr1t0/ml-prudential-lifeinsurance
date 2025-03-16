@@ -1,0 +1,16 @@
+[project]
+name = "ml-prudential-insurance"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "kaggle>=1.7.4.2",
+    "matplotlib>=3.10.1",
+    "notebook>=7.3.3",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+]
